@@ -9,6 +9,29 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 
+## 0.8.1 - 2019-12-20
+### Added
+
+### Changed
+- fixes #182 move the webpack-config from dependencies to devDependencies
+- fixes #183 rebuilt the example code with webpack
+- fixes #184 add README.md to the example folder
+- Fixes #185 add support for multi selects. Thanks @naeemba
+- fixes #186 resolve a small lint issue
+
+## 0.8.0 - 2019-11-29
+### Added
+
+### Changed
+- Fix 179 upgrade dependencies to the latest and node 12 is needed 
+
+## 0.7.1 - 2019-09-29
+### Added
+
+### Changed
+- Fix 175 Fix conditional array. Thanks @ psamim
+- Fix 176 fix the security issue reported by npm with npm audit fix
+
 ## 0.7.0 - 2019-07-07
 ### Added
 
