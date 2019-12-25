@@ -246,7 +246,7 @@ class ArrayComponent extends Component<Props, State> {
         }
         return (
             <div className={classes.root}>
-                <div style={{ display: "flex", ...form.style }}>
+                <div style={{ display: "flex" }}>
                     <FormLabel
                         required={form.required}
                         className={classes.title}
